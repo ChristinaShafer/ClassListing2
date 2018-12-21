@@ -1,0 +1,36 @@
+c
+CIS 41A, 9:30aM, mw , 4.5
+laptop
+  Labs,Quizzes,  Exams   
+92.5, 99, 87.5
+A,  A+  , B
+
+an error line
+
+
+c
+HIST 17, 3 pm, TR, 4
+textbook
+Term papers , Tests
+82.5, 78
+B, C+
+c
+CHEM 1A, 1100 am, mwf,  5   
+laptop, lab manual
+ Homework,  Quizzes, Exams
+  80, 72.5, 83
+B-  ,  C,B
+
+nc
+ DANCE,  2:3Pm  , F
+dance shoes
+	Jazz ,  Modern
+
+c
+CIS 28,630pM, tr, 4.5
+laptop
+  Labs  ,  Exams
+ 90.5,92
+ A-,A
+
+#####
