@@ -1,7 +1,7 @@
 # ClassListing2
 OOP in Python, creating a list of  non-credit and for-credit courses, utilizing Regex
 
-This code was created to fulfill the requirements of De Anza course CIS 41A (Python for Programmers), Lab 5. Lab assignment is in the folder.
+This code was created to fulfill the requirements of De Anza course CIS 41A (Python for Programmers), Lab 5. Lab assignment is in the folder (Lab5.docx).
 
 Functionality:
 
