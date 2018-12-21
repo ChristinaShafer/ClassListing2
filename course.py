@@ -133,7 +133,7 @@ class NonCreditCourse(Course):
                 done=True
     def printActivities(self):
         """prints out the course activities"""
-        print(', '.join(self._activities)  #should have been sorted
+        print(', '.join(self._activities))  #should have been sorted
 
 class CreditCourse(Course):
     """
